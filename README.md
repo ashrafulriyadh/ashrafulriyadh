@@ -22,7 +22,6 @@ Skills: HTML | CSS | BOOTSTRAP | TAILWIND CSS | JAVASCRIPT | REACT | MATERIAL UI
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashrafulriyadh)  
 
-![GitHub metrics](https://metrics.lecoq.io/ashrafulriyadh)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ashrafulriyadh)  
 
